@@ -1,0 +1,7 @@
+* text=auto
+simulation/inputs/** -text -whitespace
+data/historical/meshtas -text -whitespace
+data/historical/particle-balance.txt -text -whitespace
+archive/source-planning.ipynb -text -whitespace
+*.jpg binary
+*.png binary

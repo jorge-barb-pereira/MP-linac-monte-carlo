@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "linac-study"
+version = "0.1.0"
+description = "Reproducible source and historical mesh analysis for a LINAC coursework model"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26,<3", "matplotlib>=3.8,<4"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

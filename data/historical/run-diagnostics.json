@@ -1,0 +1,251 @@
+{
+  "source": "MCNPX_CODES/outw",
+  "source_sha256": "5ccbdc41434ab6f7ec36a231c8d1377c3fa3b304299aa34f873207b8f2071ecd",
+  "extraction": "Case insensitive selection of version, probid, warning and termination lines; line numbers are one-based.",
+  "lines": [
+    {
+      "line": 1,
+      "text": "Code Name & Version = MCNP6, 1.0"
+    },
+    {
+      "line": 33,
+      "text": "1mcnp     version 6     ld=05/08/13                     07/27/21 10:18:24"
+    },
+    {
+      "line": 38,
+      "text": "starting from dump no.  414 from file runtpe     nps =    96670510     ctm =   121029.57     probid =  07/23/21"
+    },
+    {
+      "line": 109,
+      "text": "C \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CELLS ////////////////////////////////////       probid =  07/23/21 19:21:49"
+    },
+    {
+      "line": 174,
+      "text": "warning.   random number stride   152917 exceeded 47964773 times."
+    },
+    {
+      "line": 1579,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 3809,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 5050,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 7334,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 8571,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 10860,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 13156,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  3 of the 10 statistical checks."
+    },
+    {
+      "line": 13425,
+      "text": "warning.       7 of the     7 tally fluctuation chart bins did not pass all 10 statistical checks."
+    },
+    {
+      "line": 13426,
+      "text": "warning.       7 of the     7 tallies had bins with relative errors greater than recommended."
+    },
+    {
+      "line": 13689,
+      "text": "C \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CELLS ////////////////////////////////////       probid =  07/23/21 19:21:49"
+    },
+    {
+      "line": 13754,
+      "text": "warning.   random number stride   152917 exceeded 48459725 times."
+    },
+    {
+      "line": 15159,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 17389,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 18630,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 20914,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 22151,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 24440,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 26736,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  3 of the 10 statistical checks."
+    },
+    {
+      "line": 27005,
+      "text": "warning.       7 of the     7 tally fluctuation chart bins did not pass all 10 statistical checks."
+    },
+    {
+      "line": 27006,
+      "text": "warning.       7 of the     7 tallies had bins with relative errors greater than recommended."
+    },
+    {
+      "line": 27233,
+      "text": "C \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CELLS ////////////////////////////////////       probid =  07/23/21 19:21:49"
+    },
+    {
+      "line": 27298,
+      "text": "warning.   random number stride   152917 exceeded 48954552 times."
+    },
+    {
+      "line": 28703,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 30933,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 32174,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 34458,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 35695,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 37984,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 40280,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  3 of the 10 statistical checks."
+    },
+    {
+      "line": 40549,
+      "text": "warning.       7 of the     7 tally fluctuation chart bins did not pass all 10 statistical checks."
+    },
+    {
+      "line": 40550,
+      "text": "warning.       7 of the     7 tallies had bins with relative errors greater than recommended."
+    },
+    {
+      "line": 40810,
+      "text": "C \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CELLS ////////////////////////////////////       probid =  07/23/21 19:21:49"
+    },
+    {
+      "line": 40875,
+      "text": "warning.   random number stride   152917 exceeded 49448427 times."
+    },
+    {
+      "line": 42280,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 44510,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 45751,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 48035,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 49272,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 51561,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 53857,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  3 of the 10 statistical checks."
+    },
+    {
+      "line": 54126,
+      "text": "warning.       7 of the     7 tally fluctuation chart bins did not pass all 10 statistical checks."
+    },
+    {
+      "line": 54127,
+      "text": "warning.       7 of the     7 tallies had bins with relative errors greater than recommended."
+    },
+    {
+      "line": 54242,
+      "text": "run terminated by tty interrupt."
+    },
+    {
+      "line": 54244,
+      "text": "C \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CELLS ////////////////////////////////////       probid =  07/23/21 19:21:49"
+    },
+    {
+      "line": 54309,
+      "text": "warning.   random number stride   152917 exceeded 49606927 times."
+    },
+    {
+      "line": 55714,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 57944,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 59185,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 61469,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 62706,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  2 of the 10 statistical checks."
+    },
+    {
+      "line": 64995,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  1 of the 10 statistical checks."
+    },
+    {
+      "line": 67291,
+      "text": "warning.  the tally in the tally fluctuation chart bin did not pass  3 of the 10 statistical checks."
+    },
+    {
+      "line": 67560,
+      "text": "warning.       7 of the     7 tally fluctuation chart bins did not pass all 10 statistical checks."
+    },
+    {
+      "line": 67561,
+      "text": "warning.       7 of the     7 tallies had bins with relative errors greater than recommended."
+    },
+    {
+      "line": 67622,
+      "text": "run terminated by tty interrupt."
+    },
+    {
+      "line": 67626,
+      "text": "mcnp     version 6     05/08/13                     07/27/21 13:22:58                     probid =  07/23/21 19:21:49"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "source": "MCNPX_CODES/exe01.i",
+    "published": "simulation/inputs/exe01.i",
+    "sha256": "8da0ec84e69d99354c60782385f6e3d8e2a65dd154798c02531a5715208535bf",
+    "source_modified_local": "2021-07-12T02:25:38"
+  },
+  {
+    "source": "MCNPX_CODES/10e8.i",
+    "published": "simulation/inputs/10e8.i",
+    "sha256": "3d5e5bd0aa7a3fa36940649bdcb0f13d0e8735b234872a8999d857d86b62f8ca",
+    "source_modified_local": "2021-07-21T01:09:06"
+  },
+  {
+    "source": "MCNPX_CODES/novo.i",
+    "published": "simulation/inputs/novo.i",
+    "sha256": "351ec168c64237f1c51518c32a02be2af0b074a73d8107f26e6c8da434990646",
+    "source_modified_local": "2021-07-21T12:43:28"
+  },
+  {
+    "source": "MCNPX_CODES/last.i",
+    "published": "simulation/inputs/last.i",
+    "sha256": "b37f931d5ba8ff67f9e9dd0610264b04b9f3d2aa1b560c61574d8a13e9b99b6f",
+    "source_modified_local": "2021-07-23T19:13:22"
+  },
+  {
+    "source": "MCNPX_CODES/input_MCNPX.txt",
+    "published": "simulation/inputs/input_MCNPX.txt",
+    "sha256": "b37f931d5ba8ff67f9e9dd0610264b04b9f3d2aa1b560c61574d8a13e9b99b6f",
+    "source_modified_local": "2021-07-26T14:37:01"
+  },
+  {
+    "source": "MCNPX_CODES/meshtas",
+    "published": "data/historical/meshtas",
+    "sha256": "516a92dfdedd7b0a4a02d0d097c71a0236b1448cad15c74166233f0ee6db7546",
+    "source_modified_local": "2021-07-27T13:22:56"
+  },
+  {
+    "source": "Tabelas/summary.txt",
+    "published": "data/historical/particle-balance.txt",
+    "sha256": "1dfa5e38ee5816f2456471f545eca08487fd190f3fb6db70df14077a728f146c",
+    "source_modified_local": "2021-07-28T13:02:34"
+  },
+  {
+    "source": "Distribui\u00e7\u00e3o_Energ\u00e9tica.jpg",
+    "published": "archive/figures/electron-energy.jpg",
+    "sha256": "78b95cfc1b3a88e2cde909c6d7e2b5453baf7871e7476538c22acdc62d193649",
+    "source_modified_local": "2021-07-25T23:51:39"
+  },
+  {
+    "source": "Planeamento.ipynb",
+    "published": "archive/source-planning.ipynb",
+    "source_sha256": "af42beed8ffa78dbe232e7e73a04800fa06ea49282da02f69c47e2748bf85f15",
+    "sha256": "9868955dac725195565111e515ee01baece95a488e0955f6184620205198ee94",
+    "transformation": "Outputs and execution metadata removed; cell source unchanged.",
+    "source_modified_local": "2021-07-25T23:38:17"
+  }
+]

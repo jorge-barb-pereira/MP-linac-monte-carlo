@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+output/
+.env
+*.runtpe
+runtpe
+xsdir*
+.idea/
+.ipynb_checkpoints/

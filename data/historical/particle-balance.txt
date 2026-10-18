@@ -1,0 +1,72 @@
++                                                                                                    07/27/21 13:22:56 
+      C \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CELLS ////////////////////////////////////       probid =  07/23/21 19:21:49 
+
+ photon creation     tracks      weight        energy            photon loss         tracks      weight        energy
+                                 (per source particle)                                           (per source particle)
+
+ source                   0    0.            0.                  escape            28937411    2.8845E-01    2.3122E-01
+ nucl. interaction        0    0.            0.                  energy cutoff            0    0.            7.8924E-04
+ particle decay           0    0.            0.                  time cutoff              0    0.            0.        
+ weight window            0    0.            0.                  weight window            0    0.            0.        
+ cell importance          0    0.            0.                  cell importance          0    0.            0.        
+ weight cutoff            0    0.            0.                  weight cutoff            0    0.            0.        
+ e or t importance        0    0.            0.                  e or t importance        0    0.            0.        
+ dxtran                   0    0.            0.                  dxtran                   0    0.            0.        
+ forced collisions        0    0.            0.                  forced collisions        0    0.            0.        
+ exp. transform           0    0.            0.                  exp. transform           0    0.            0.        
+ from neutrons            0    0.            0.                  compton scatter          0    0.            2.1079E-01
+ bremsstrahlung   425102736    4.2374E+00    7.8376E-01          capture          548141144    5.4639E+00    3.5096E-01
+ p-annihilation     3678466    3.6667E-02    1.8737E-02          pair production    1856866    1.8509E-02    6.1007E-02
+ photonuclear             0    0.            0.                  photonuclear abs         0    0.            0.        
+ electron x-rays   21157984    2.1090E-01    1.7946E-03          loss to photofis         0    0.            0.        
+ compton fluores          0    0.            0.                                                                        
+ muon capt fluores        0    0.            0.                                                                        
+ 1st fluorescence 113413173    1.1305E+00    4.8993E-02                                                                
+ 2nd fluorescence  15583062    1.5533E-01    1.4667E-03                                                                
+ (gamma,xgamma)           0    0.            0.                                                                        
+ tabular sampling         0    0.            0.                                                                        
+ prompt photofis          0    0.            0.                                                                        
+     total        578935421    5.7709E+00    8.5475E-01              total        578935421    5.7709E+00    8.5475E-01
+
+   number of photons banked                465522248        average time of (shakes)              cutoffs
+   photon tracks per source particle      5.7709E+00          escape            1.6068E-02          tco   1.0000E+33
+   photon collisions per source particle  6.3242E+00          capture           3.7828E-03          eco   1.0000E-03
+   total photon collisions                 634445491          capture or escape 4.3988E-03          wc1  -5.0000E-01
+                                                              any termination   4.4465E-03          wc2  -2.5000E-01
+
+ electron creation   tracks      weight        energy            electron loss       tracks      weight        energy
+                                 (per source particle)                                           (per source particle)
+
+ source           100320422    1.0000E+00    6.0002E+00          escape            57036949    5.6855E-01    2.8410E+00
+ nucl. interaction        0    0.            0.                  energy cutoff  28467085384    2.8376E+02    2.6407E-01
+ particle decay           0    0.            0.                  time cutoff              0    0.            0.        
+ weight window            0    0.            0.                  weight window            0    0.            0.        
+ cell importance          0    0.            0.                  cell importance          0    0.            0.        
+ weight cutoff            0    0.            0.                  weight cutoff            0    0.            0.        
+ e or t importance        0    0.            0.                  e or t importance        0    0.            0.        
+ pair production    3712679    3.7008E-02    4.2090E-02          scattering               0    0.            4.0939E+00
+ compton recoil    57089555    5.6907E-01    2.1078E-01          bremsstrahlung           0    0.            7.8376E-01
+ photo-electric   541690680    5.3996E+00    2.8876E-01          p-annihilation     1838706    1.8328E-02    1.6930E-05
+ photon auger       5456008    5.4386E-02    2.1362E-03          atomic excitation        0    0.            0.        
+ electron auger    19606625    1.9544E-01    1.5373E-03                                                                
+ knock-on       27798085070    2.7709E+02    1.4373E+00          electroionization        0    0.            0.        
+ (gamma,xelectron)        0    0.            0.                                                                        
+     total      28525961039    2.8435E+02    7.9827E+00              total      28525961039    2.8435E+02    7.9827E+00
+
+   number of electrons banked            -1639130455                                              cutoffs
+   electron tracks per source particle    2.8435E+02                                                tco   1.0000E+33
+   electron sub-steps per source particle 2.1340E+04                                                eco   1.0000E-03
+   total electron sub-steps            2140858954935                                                wc1   0.0000E+00
+                                                                                                    wc2   0.0000E+00
+
+ computer time so far in this run  4580.96 minutes            maximum number ever in bank       837
+ computer time in mcrun          125610.47 minutes            bank overflows to backup file       0
+ source particles per minute            7.9866E+02
+ random numbers generated           19411431605172            most random numbers used was     1688614 in history    20296494
+ 
+  warning.   random number stride   152917 exceeded 49606927 times.
+
+ range of sampled source weights = 1.0000E+00 to 1.0000E+00
+
+ number of histories processed by each thread
+      726371      735470      720692      737653      729726
